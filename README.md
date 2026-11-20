@@ -17,6 +17,10 @@
 - 🌱 Learning new technologies every day
 - 🚀 Building projects and improving my skills
 
+<div align="center">
+  <img src="assets/giphy.gif" width="500" alt="Coding animation" />
+</div>  
+
 ## 💜 Tech Stack
 
 <p align="center">
