@@ -57,3 +57,6 @@
   <img width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&color=0:6A3FA0,50:9B72CF,100:E0B0FF&height=130&section=footer"/>
 </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nuzhat-dot&label=PROFILE+VIEWS&color=9B72CF&style=for-the-badge" />
+</p>
