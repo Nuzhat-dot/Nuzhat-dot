@@ -45,3 +45,7 @@
   <h3>✨ Dream • Code • Build • Repeat 💜</h3>
   <p>Thanks for visiting my little corner of GitHub!</p>
 </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nuzhat-dot/Nuzhat-dot/output/github-contribution-grid-snake.svg"
+  alt="Contribution Snake" width="100%" />
+</p>
