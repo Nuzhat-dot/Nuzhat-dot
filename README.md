@@ -53,3 +53,7 @@
   <img src="https://raw.githubusercontent.com/Nuzhat-dot/Nuzhat-dot/output/github-contribution-grid-snake.svg"
   alt="Contribution Snake" width="100%" />
 </p>
+<div align="center">
+  <img width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:6A3FA0,50:9B72CF,100:E0B0FF&height=130&section=footer"/>
+</div>
